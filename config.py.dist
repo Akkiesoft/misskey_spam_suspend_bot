@@ -1,0 +1,11 @@
+misskey_host = ''
+
+# you'll need following privilege:
+#    View your account information
+#    Report violation
+#    Suspend user
+token = ''
+
+ng_words = (
+    "",
+)
